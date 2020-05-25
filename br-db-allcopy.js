@@ -10615,9 +10615,9 @@ Highcharts.maps["countries/br/br-all"] = {
                 "country": "Brazil",
                 "type-en": "DB State",
                 "region": null,
-                "longitude": "-52.7902",
+                "longitude": "-72.7902",
                 "woe-name": "Estado do DB",
-                "latitude": "-50.7665",
+                "latitude": "-30.7665",
                 "woe-label": "Estado do DB, BR, Brazil",
                 "type": "Estado do DB"
             },
